@@ -1,2 +1,3 @@
 # Hello World
- Primeiro Repositório
+ Primeiro Repositório do curso em vídeo
+ 
